@@ -9,7 +9,6 @@ set(ZJWebServer_lib
             http_request.c
             http_response.c
             http_server.c
-            tcp_client.c
             tcp_server.c
             tcp_connection.c
             thread_pool.c
